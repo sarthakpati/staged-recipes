@@ -22,6 +22,12 @@ requirements:
   run:
     - python >=3.6
     - pytorch
+    - mpi4py
+    - hjson
+    - tabulate
+    - xgboost
+    - clang-format
+    - numpy
 
 test:
   imports:
