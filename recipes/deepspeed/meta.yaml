@@ -18,10 +18,10 @@ requirements:
   host:
     - pip
     - python >=3.6
-    - pytorch >=1.7
+    - pytorch
   run:
     - python >=3.6
-    - pytorch >=1.7
+    - pytorch
 
 test:
   imports:
